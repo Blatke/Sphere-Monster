@@ -22,3 +22,12 @@ Their parents, D1, D2, D3, D4 and D5, can batch affect them when the former ones
 On the tab, you can search for "C" or "D" to get the corresponding bones and make them transform.
 
 Of course you can also enable FK function to directly rotate the FK nodes of the monster.
+
+So, in some circumstances, you can have it in a pose like this:
+
+![%MMM$ O`@`0FAFI9NV8P``2](https://github.com/user-attachments/assets/e914d184-e5f4-4fe4-a53d-b5a1e566ee10)
+
+## Textures
+The textures including a diffuse and a normal map are put in the project folder:
+1. https://github.com/Blatke/Sphere-Monster/blob/main/diffuse.jpg
+2. https://github.com/Blatke/Sphere-Monster/blob/main/normal.jpg
